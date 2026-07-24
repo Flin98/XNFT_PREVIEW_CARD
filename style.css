@@ -50,14 +50,14 @@ body {
   opacity: 1;
 }
 
-.card__title h2 {
+.card__title h1 {
   margin: 20px 0 15px;
   font-size: 22px;
   font-weight: 600;
   cursor: pointer;
 }
 
-.card__title h2:hover {
+.card__title h1:hover {
   color: hsl(178, 100%, 50%);
 }
 
